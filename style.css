@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: chartreuse;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 100%;
+}
+#image{
+    width: 100px;
+    height: 100px;
+}
